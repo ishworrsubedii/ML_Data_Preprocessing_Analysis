@@ -32,8 +32,5 @@ If you are new to Machine Learning, I recommend following these steps to get sta
 ## Contributions
 While this repository primarily documents my personal learning journey, I welcome contributions from the community. If you have any suggestions, improvements, or would like to add your own code implementations or projects, please feel free to submit a pull request. Let's learn and grow together!
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 Happy learning!
 
