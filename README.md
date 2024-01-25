@@ -25,7 +25,7 @@ If you are new to Machine Learning, I recommend following these steps to get sta
 5. Check out the free resources
 ## Projects
 - 
-## Free Resources
+## Resources
 - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 - https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 - https://www.coursera.org/specializations/machine-learning-introduction
